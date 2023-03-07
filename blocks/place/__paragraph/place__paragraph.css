@@ -4,6 +4,12 @@
     font-size: 18px;
     line-height: 29px;
     text-align: left;
+    
+    margin-bottom: 26px;
+    font-style: normal;
+    
+    
+    line-height: 29.34px;
 
  /*   border: dashed red;  */
 }    
@@ -11,12 +17,7 @@
 
 
 .place__paragraph {
-    margin: 0;
-    margin-bottom: 26px;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 29.34px;
+
 }
 
 @media screen and (max-width: 768px) {
