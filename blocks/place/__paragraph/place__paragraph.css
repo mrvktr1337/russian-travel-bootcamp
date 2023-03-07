@@ -2,7 +2,6 @@
     margin: 0;
     font-weight: 400;
     font-size: 18px;
-    line-height: 29px;
     text-align: left;
     
     margin-bottom: 26px;
@@ -14,11 +13,6 @@
  /*   border: dashed red;  */
 }    
 
-
-
-.place__paragraph {
-
-}
 
 @media screen and (max-width: 768px) {
     .place__paragraph {
