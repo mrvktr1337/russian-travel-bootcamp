@@ -1,0 +1,11 @@
+.header__link-list {
+    display: flex;
+    justify-content: flex-end;
+    align-self: center;
+    text-align: right;
+    list-style-type: none;
+
+
+/*   border: dashed red;  */
+}
+

@@ -1,0 +1,9 @@
+.place__text {
+  grid-area: text;
+  margin: 0 0 25px 0;
+  /*   border: dashed red;  */
+}
+
+.place__text:last-child {
+  margin: 0;
+}

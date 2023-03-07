@@ -1,0 +1,30 @@
+.cover {
+margin: 0 auto;
+margin-bottom: 92px;
+margin-top: 92px;
+max-width: 1184px;
+width: 100%;
+
+ /*   border: dashed red;  */
+}
+
+
+
+
+
+@media screen and (max-width: 768px) {
+    .cover {
+        margin-bottom: 88px;
+        margin-top: 90px;
+    }
+}
+
+
+
+@media screen and (max-width: 320px) {
+    .cover {
+        margin-bottom: 64px;
+        margin-top: 66px;
+    }
+}
+
