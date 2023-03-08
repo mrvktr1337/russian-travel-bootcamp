@@ -4,7 +4,7 @@
 - html
 - css
 - flexbox
-- grib
+- grid
 - БЭМ
 - @media
 
