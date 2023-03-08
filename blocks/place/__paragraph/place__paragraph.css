@@ -3,26 +3,22 @@
     font-weight: 400;
     font-size: 18px;
     text-align: left;
-    
-    margin-bottom: 26px;
     font-style: normal;
-    
-    
     line-height: 29.34px;
 
- /*   border: dashed red;  */
-}    
+    /*   border: dashed red;  */
+}
 
 
 @media screen and (max-width: 768px) {
     .place__paragraph {
         font-size: 16px;
+        line-height: 26.08px;
     }
 }
 
 @media screen and (max-width: 320px) {
     .place__paragraph {
         padding-left: 16px;
-        margin-bottom: 0;
     }
 }
