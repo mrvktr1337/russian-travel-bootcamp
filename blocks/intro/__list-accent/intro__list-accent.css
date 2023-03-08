@@ -1,5 +1,7 @@
 .intro__list-accent {
     font-weight: 700;
+    line-height: 18px;
+    font-size: 12px;
 
     /*   border: dashed red;  */
 }

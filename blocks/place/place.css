@@ -35,6 +35,17 @@
 
 }
 
+
+@media screen and (max-width: 576px) {
+    .place {
+        margin-bottom: 73px;
+        /*      grid-template-columns: minmax(auto, 340px) minmax(auto, 352px);  */
+        grid-template-columns: 280px 1fr;
+        column-gap: 14px;
+    }
+
+}
+
 @media screen and (max-width: 540px) {
     .place {
         grid-template-columns: 1fr;
