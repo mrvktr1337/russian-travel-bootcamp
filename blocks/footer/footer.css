@@ -1,4 +1,3 @@
-/* 1280 */
 .footer {
   display: flex;
   justify-content: space-between;
@@ -7,9 +6,6 @@
   max-width: 1184px;
   margin: 0 auto;
   margin-bottom: 24px;
-
-
-  /*   border: dashed red;  */
 }
 
 @media screen and (max-width: 1184px) {

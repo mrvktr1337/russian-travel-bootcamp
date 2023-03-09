@@ -1,4 +1,3 @@
-/* 1280 */
 .intro {
    max-width: 690px;
    margin: 0 auto;
@@ -6,16 +5,12 @@
    margin-bottom: 92px;
 }
 
-
-
-/* 1024 */
 @media screen and (max-width: 1024px) {
    .intro {
       margin-left: 48px;
    }
 }
 
-/* 768 */
 @media screen and (max-width: 768px) {
    .intro {
       margin-bottom: 88px;
@@ -24,22 +19,10 @@
    }
 }
 
-/* 640 */
 @media screen and (max-width: 425px) {
    .intro {
-      max-width: 228px;
+      max-width: 288px;
       margin: 0;
-     
       text-align: left;
    }
 }
-
-
-@media screen and (max-width: 334px) {
-   .intro {
-      max-width: 228px;
-     
-      text-align: left;
-   }
-}
-

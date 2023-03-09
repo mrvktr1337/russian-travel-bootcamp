@@ -2,11 +2,7 @@
     max-width: 984px;
     margin-bottom: 80px;
     display: grid;
-
-    /*  grid-template-columns: minmax(auto, 460px(auto, 484px)); */
     grid-template-columns: 460px 1fr;
-
-
     grid-template-rows: min-content min-content;
     gap: 48px 40px;
     grid-template-areas:
@@ -28,13 +24,11 @@
 
 @media screen and (max-width: 768px) {
     .place {
-        max-width: 728px;
+        max-width: 720px;
         margin-bottom: 73px;
-        /*      grid-template-columns: minmax(auto, 340px) minmax(auto, 352px);  */
         grid-template-columns: 340px 1fr;
         column-gap: 28px;
     }
-
 }
 
 @media screen and (max-width: 600px) {

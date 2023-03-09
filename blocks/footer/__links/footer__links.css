@@ -1,7 +1,7 @@
 .footer__links {
   display: flex;
   justify-content: space-between;
-  gap: 32px;
+  gap: 18px;
   list-style-type: none;
   flex-direction: row;
   padding: 0;
@@ -15,5 +15,6 @@
   .footer__links {
     flex-direction: column;
     margin-bottom: 48px;
+    gap: 32px;
   }
 }

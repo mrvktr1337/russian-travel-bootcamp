@@ -8,10 +8,7 @@
     padding-top: 8px;
     text-transform: uppercase;
     align-self: flex-start;
-    /*   border: dashed red;  */
 }
-
-
 
 @media screen and (max-width: 768px) {
     .lead__caption {

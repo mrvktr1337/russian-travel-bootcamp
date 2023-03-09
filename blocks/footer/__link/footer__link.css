@@ -7,10 +7,7 @@
   font-style: normal;
   color: #fff;
   text-decoration: none;
-
-  /*   border: dashed red;  */
 }
-
 
 .footer__link:hover {
   opacity: 80%;

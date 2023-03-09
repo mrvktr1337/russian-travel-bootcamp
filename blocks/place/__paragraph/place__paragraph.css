@@ -5,10 +5,7 @@
     text-align: left;
     font-style: normal;
     line-height: 29.34px;
-
-    /*   border: dashed red;  */
 }
-
 
 @media screen and (max-width: 768px) {
     .place__paragraph {
@@ -20,5 +17,6 @@
 @media screen and (max-width: 320px) {
     .place__paragraph {
         padding-left: 16px;
+        padding-right: 16px;
     }
 }
