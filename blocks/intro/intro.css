@@ -28,18 +28,18 @@
 @media screen and (max-width: 425px) {
    .intro {
       max-width: 228px;
-      margin: 0 auto;
-      margin-bottom: 64px;
+      margin: 0;
+     
       text-align: left;
    }
 }
 
-/* 320 */
-@media screen and (max-width: 320px) {
-   .intro {
-      min-width: 288px;
-      margin: 0;
-      padding: 0;
 
+@media screen and (max-width: 334px) {
+   .intro {
+      max-width: 228px;
+     
+      text-align: left;
    }
 }
+

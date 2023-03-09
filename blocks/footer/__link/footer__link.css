@@ -21,8 +21,4 @@
     font-size: 24px;
     line-height: 24px;
   }
-
-  .footer__link:last-child {
-    margin-bottom: 0;
-  }
 }
